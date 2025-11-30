@@ -1,0 +1,91 @@
+1)unix systen is a system that contains commands to operate specific tasks
+
+
+2)
+
+
+3)In “#!/usr/bin/env bash” , it includes all the environment variables .But in 
+“#!/bin/bash" it doent contain all environment variables.
+
+4)  :   
+    .
+    /
+    ~  
+
+5)  a) mv myfile.txt examfile.txt
+    b)echo "I am a student at IIT Palakkad” on the terminal"
+    c)cat > yourinstitute.txt 
+        I am a student at IIT Palakkad” on the terminal
+    d) cat > myfile.txt 
+    e)
+
+6)grep -Eo "\([A-Za-z]+([A-Za-z]+\-[A-Za-z]+)?\)" bracket.txt 
+
+(CL)
+(pre-training)
+(fine-tuning)
+(DNNs)
+
+ ( 152502008@nil-315-113l 16:21:39 ~ grep -Eo "\([A-Za-z]+([A-Za-z]+\-[A-Za-z]+)?\)" bracket.txt 
+(CL)
+(pre-training)
+(fine-tuning)
+(DNNs)
+  )
+
+
+
+7) grep -E "[A-Za-z0-9]+@[A-Za-z]+\.[A-Za-z]{2,6}" mail.txt 
+
+b. rebeccajordanphd61@outlook.com
+c. jamesphillips63@yahoo.com
+e. briannalee46@outlook.com
+g. alexchandler58@gmail.com
+h. michaelkim15@gmail.com
+i. josephperkins51@outlook.com
+j. toddwall87@gmail.com
+k. dominiquenunez80@apple.com
+m. jenniferfloyd51@outlook.com
+
+8)
+  a)touch prakash.sh 
+    gedit prakash.sh
+        mkdir $1
+        cd $1
+     bash prakash.sh Test1byprakash
+      
+   b) touch prakash1.sh 
+      gedit prakash1.sh 
+        touch $1  
+      bash prakash.sh Test1.txt
+
+   c)let test2.txt
+      “To manage large file uploads without disrupting the user          experience,     the bulk upload process is handled as an asynchronous background job. When a file is submitted, the system initiates a job and provides real-time status updates to the user (e.g., "uploading,"     "Processing," "Completed").” 
+     touch prakash.sh
+     gedit prakash.sh 
+        cat $1 > $2
+     bash prakash.sh test2.txt test1.txt
+
+   d)grep -oi "upload" test1.txt | wc -l
+
+
+
+   e)if [ $1 -gt 2 ]
+     then 
+       echo "use a different word"
+     else
+       echo "this is okay!”
+     fi 
+  
+
+   bash prakash.sh count 
+
+
+
+
+     
+      
+      
+
+
+
