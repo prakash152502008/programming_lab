@@ -1,0 +1,53 @@
+git config --global user.name "prakash152502008"
+  950  git config --global user.email "152502008@smail.iitpkd.ac.in"
+  951  git init
+  952  git clone https://github.com/vivekc29-art/test-2.git
+  953  git cone https://github.com/vivekc29-art/test-2.git
+  954  git clone https://github.com/vivekc29-art/test-2.git
+  955  git status 
+  956  git config --global user.name "prakash152502008"
+  957  mkdir test2-prakash-2025
+  958  cd test2-praksh-2025
+  959  cd test2-prakash-2025
+  960  git config --global user.name "prakash152502008"
+  961  git config --global user.email "152502008@smail.iitpkd.ac.in"
+  962  git init
+  963  gedit akefile
+  964  gedit Makefile
+  965  ./number_utils
+  966  git log
+  967  history
+  968  gedit main.c
+  969  make
+  970  make
+  971  ./number_utils
+  972  git status
+  973  git add test-2/
+  974  git commit -m "test-2 pushed intially"
+  975  git push 
+  976  git push
+  977  git status
+  978  gedit Makefile
+  979  ./number_utils
+  980  gedit Makefile
+  981  make
+  982  ./number_utils
+  983  gedit Makefile
+  984  ./number_utils
+  985  make
+  986  ./number_utils
+  987  git status
+  988  git add .
+  989  git commit -m " updated makefile pushed "
+  990  git push
+  991  ls -al ~/.ssh
+  992  gedit Makefile
+  993  make
+  994  ./number_utils
+  995  gedit Makefile
+  996  make
+  997  ./number_utils
+  998  make
+  999  history
+152502008@nil-315-113l 16:00:27 ~/Desktop/test2/test2-prakash-2025 
+
